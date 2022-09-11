@@ -1,2 +1,2 @@
 # Complete-Java
-Zip file containing Complete Java Resources
+Repo containing Complete Java Resources
